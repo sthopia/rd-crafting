@@ -1,7 +1,8 @@
 ## rd-crafting
 crafting with succesrate which causes it to explosion you can edit it in config.lua
+
 ## config
-[config](https://imgur.com/pnZdRJY)
+![ShowCase](https://imgur.com/pnZdRJY)
 
 ## Requirements
 1. [mythic_progbar](https://github.com/HalCroves/mythic_progbar) 
