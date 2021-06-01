@@ -8,7 +8,7 @@ crafting with succesrate which causes it to explosion you can edit it in config.
 
 ## Installation
 1. Put rd-crafting file into resources
-2. Add start rd-craftingon your server.cfg
+2. Add start rd-crafting your server.cfg
 
 ## Preview
 [crafting](https://www.youtube.com/watch?v=OIUuL6SsncE)
