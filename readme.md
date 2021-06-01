@@ -1,6 +1,5 @@
 ## rd-crafting
 crafting with succesrate which causes it to explosion you can edit it in config.lua.
-![ShowCase](https://imgur.com/pnZdRJY)
 ![ShowCase](https://cdn.discordapp.com/attachments/806431193352503319/849208585485418506/config.PNG)
 
 ## Requirements
