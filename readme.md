@@ -1,5 +1,5 @@
 ## rd-crafting
-crafting with succesrate which causes it to explosion you can edit it in config.lua
+crafting with succesrate which causes it to explosion you can edit it in config.lua.
 ![ShowCase](https://imgur.com/pnZdRJY)
 
 ## Requirements
