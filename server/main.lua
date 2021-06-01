@@ -22,7 +22,7 @@ AddEventHandler('rd-crafting:checkCrafting', function(itemId)
 		if canCraft then
 			TriggerClientEvent('rd-crafting:startCrafting', xPlayer.source, itemId)
 		else
-			TriggerClientEvent('mythic_notify:client:SendAlert', xPlayer.source, { type = 'error', text = 'Kamu Tidak Memiliki Bahan Ynag Mencukupi.', length = 5000 })
+			TriggerClientEvent('mythic_notify:client:SendAlert', xPlayer.source, { type = 'error', text = 'Kamu Tidak Memiliki Bahan Yang Mencukupi.', length = 5000 })
 		end
 end)
 
