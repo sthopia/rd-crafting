@@ -70,7 +70,7 @@ end)
 RegisterNetEvent("rd-crafting:ledakan")
 AddEventHandler("rd-crafting:ledakan", function()
     local ledak = 1
-    AddExplosion(568.24, -3127.07, 18.77, ledak, 1.12, true, false, 1.23)
+    AddExplosion(Config.CraftingLocation.x, Config.CraftingLocation.y, Config.CraftingLocation.z, ledak, 1.12, true, false, 1.23)
 end)
 
 function CraftingMenu()
